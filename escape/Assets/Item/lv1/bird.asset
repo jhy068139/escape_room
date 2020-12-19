@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09ac689d10e21f34fa81f1da3333e394, type: 3}
+  m_Name: bird
+  m_EditorClassIdentifier: 
+  itemName: bird
+  itemType: 2
+  itemImage: {fileID: 21300000, guid: 1960667297ecf6d4ab6a6b3082f4bae2, type: 3}
+  itemPrefab: {fileID: 6771663436961336892, guid: 1f24c5845bd6483498739a32a1448c85,
+    type: 3}
+  weaponType: 
